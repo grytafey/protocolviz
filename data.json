@@ -1,0 +1,430 @@
+[
+ 
+	{
+	"id":"20",
+	"title":"Eligibility",
+	"popuptext":null,
+	"description":null,
+	"options":
+			[
+				{ 	
+				"id":"2001",
+				"title":"Senior",
+				"popuptext":"",
+				"description":"",
+				"options":
+					[
+						{
+  						"id":"200101",
+  						"title":"Frail",
+  						"quantity": 1,
+  						"popuptext":"",
+  						"description":"",
+  						"options":[]						
+				    },
+						{
+  						"id":"200102",
+  						"title":"Not Frail",
+  						"quantity": 1,
+  						"popuptext":"",
+  						"description":"",
+  						"options":[]						
+				    }
+				  ]
+				},
+				{ 	
+				"id": "12", 
+				"title": "At or below 125%", 
+				"quantity": 1,
+  			"popuptext":"",
+  			"description":"",
+  			"options":[]										  
+				},
+				{ 
+				"id": "13", 
+				"title": "Disability", 
+				"quantity" :1, 
+				 "options":[]	
+				}
+		 ]
+	},
+	{
+		"id":"30",
+		"title":"Housing Type",
+		"options":
+			[
+				{ 
+				"id": "21", 
+				"title": "Private", 
+				"quantity": 1,
+				"options":[]	
+				 },
+				{ "id": "22", 
+				"title": "Subsidized", 
+				"quantity": 1,  
+				"options":[]	
+				},
+				{ 
+				"id": "23", 
+				"title": "Manufactured housing", 
+				"quantity" :1,  
+				"options":[]	
+				},
+				{ 
+				"id": "24", 
+				"title": "Land Contract", 
+				"quantity" :1,
+				"options":[]
+				}
+			]
+	},
+	  {
+    "id": "40",
+    "title": "Stage",
+    "options": [
+      {
+        "id": "31",
+        "title": "Application",
+        "quantity": 1,
+		"options":[]
+      },
+      {
+        "id": "32",
+        "title": "Prepared and Protected",
+        "quantity": 1,
+		"options":[]
+      },
+      {
+        "id": "33",
+        "title": "Problem",
+        "quantity": 1,
+		"options":[]
+      },
+      {
+        "id": "34",
+        "title": "Notice to Vacate",
+        "quantity": 1,
+		"options":[]
+      },
+      {
+        "id": "32",
+        "title": "Eviction Complaint",
+        "quantity": 1,
+		"options":[]
+      },
+      {
+        "id": "33",
+        "title": "Before Setout",
+        "quantity": 1,
+		"options":[]
+      },
+      {
+        "id": "34",
+        "title": "Damages",
+        "quantity": 1,
+		"options":[]
+      }
+    ]
+  },
+  {
+	"id":"50",
+	"title":"Legal Aid",
+	"popuptext":null,
+	"description":null,
+	"options":
+    [
+      {
+		"id":"5001",
+		"title":"None",
+		"popuptext":null,
+		"description":null,
+		"quantity":1,
+		"options": []
+      },
+      {
+  	"id":"5002",
+		"title":"LiveChat",
+		"popuptext":null,
+		"description":null,
+		"quantity":1,
+		"options": []
+      },
+      {
+  	"id":"5003",
+		"title":"Doc Review",
+		"popuptext":null,
+		"description":null,
+		"quantity":1,
+		"options": []
+      },
+      {
+  	"id":"5004",
+		"title":"Admin Rep",
+		"popuptext":null,
+		"description":null,
+		"quantity":1,
+		"options": []
+      },
+      {
+  	"id":"5005",
+		"title":"Advice",
+		"popuptext":null,
+		"description":null,
+		"quantity":1,
+		"options": []
+      },
+      {
+  	"id":"5006",
+		"title":"Limited Service",
+		"popuptext":null,
+		"description":null,
+		"quantity":1,
+		"options": []
+      },
+      {
+  	"id":"5007",
+		"title":"Clinic",
+		"popuptext":null,
+		"description":null,
+		"quantity":1,
+		"options": []
+      },
+      {
+  	"id":"5008",
+		"title":"Pro Bono",
+		"popuptext":null,
+		"description":null,
+		"quantity":1,
+		"options": []
+      },
+      {
+    "id":"5009",
+		"title":"Representation",
+		"popuptext":null,
+		"description":null,
+		"quantity":1,
+		"options": []
+      },
+      {
+    "id":"5010",
+		"title":"Other",
+		"popuptext":null,
+		"description":null,
+		"quantity":1,
+		"options": []
+      }      
+    ]
+  },
+    {
+	"id":"60",
+	"title":"Other Resources",
+	"popuptext":null,
+	"description":null,
+	"options":
+    [
+      {
+		"id":"6001",
+		"title":"None",
+		"popuptext":null,
+		"description":null,
+		"quantity":1,
+		"options": []
+      },
+      {
+  	"id":"6002",
+		"title":"Fair Housing",
+		"popuptext":null,
+		"description":null,
+		"quantity":1,
+		"options": []
+      },
+      {
+  	"id":"6003",
+		"title":"Apartment Listings",
+		"popuptext":null,
+		"description":null,
+		"quantity":1,
+		"options": []
+      },
+      {
+  	"id":"5004",
+		"title":"Disability Rights",
+		"popuptext":null,
+		"description":null,
+		"quantity":1,
+		"options": []
+      },
+      {
+  	"id":"5005",
+		"title":"Cash Assistance",
+		"popuptext":null,
+		"description":null,
+		"quantity":1,
+		"options": []
+      },
+      {
+  	"id":"5006",
+		"title":"Housing Counselor",
+		"popuptext":null,
+		"description":null,
+		"quantity":1,
+		"options": []
+      },
+      {
+  	"id":"5007",
+		"title":"Mediation",
+		"popuptext":null,
+		"description":null,
+		"quantity":1,
+		"options": []
+      },
+      {
+  	"id":"5008",
+		"title":"Private Bar",
+		"popuptext":null,
+		"description":null,
+		"quantity":1,
+		"options": []
+      },
+      {
+    "id":"5009",
+		"title":"State Hotline",
+		"popuptext":null,
+		"description":null,
+		"quantity":1,
+		"options": []
+      },
+      {
+    "id":"5010",
+		"title":"Other",
+		"popuptext":null,
+		"description":null,
+		"quantity":1,
+		"options": []
+      }      
+    ]
+  },
+    {
+	"id":"70",
+	"title":"Outcomes",
+	"popuptext":null,
+	"description":null,
+	"options":
+    [
+    
+ {
+   "id": "7001",
+   "title": "6300",
+   "popuptext": "Prevented eviction",
+   "description": "",
+   "quantity": 1,
+   "options": []
+},
+ {
+   "id": "7002",
+   "title": "6310",
+   "popuptext": "Delayed eviction to seek alternative housing",
+   "description": "",
+   "quantity": 1,
+   "options": []
+},
+ {
+   "id": "7003",
+   "title": "6311",
+   "popuptext": "Prevented utility shutoff",
+   "description": "",
+   "quantity": 1,
+   "options": []
+},
+ {
+   "id": "7004",
+   "title": "6321",
+   "popuptext": "Restored utilities",
+   "description": "",
+   "quantity": 1,
+   "options": []
+},
+ {
+   "id": "7005",
+   "title": "6330",
+   "popuptext": "Obtained redress for illegal or unfair charges by landlord",
+   "description": "",
+   "quantity": 1,
+   "options": []
+},
+ {
+   "id": "7006",
+   "title": "6350",
+   "popuptext": "Enforced rights to decent habitable housing",
+   "description": "",
+   "quantity": 1,
+   "options": []
+},
+ {
+   "id": "7007",
+   "title": "6352",
+   "popuptext": "Provided help to develop or renovate affordable housing",
+   "description": "",
+   "quantity": 1,
+   "options": []
+},
+ {
+   "id": "7008",
+   "title": "6370",
+   "popuptext": "Obtained affordable housing through transfer or relocation",
+   "description": "",
+   "quantity": 1,
+   "options": []
+},
+ {
+   "id": "7009",
+   "title": "6354",
+   "popuptext": "Eliminating building or health code violation",
+   "description": "",
+   "quantity": 1,
+   "options": []
+},
+ {
+   "id": "7010",
+   "title": "6361",
+   "popuptext": "Achieved accommodations for housing accessibility",
+   "description": "",
+   "quantity": 1,
+   "options": []
+},
+ {
+   "id": "7011",
+   "title": "6380",
+   "popuptext": "Obtained redress for discrimination in obtaining housing",
+   "description": "",
+   "quantity": 1,
+   "options": []
+},
+ {
+   "id": "7012",
+   "title": "6394",
+   "popuptext": "Restored access to personal property",
+   "description": "",
+   "quantity": 1,
+   "options": []
+},
+ {
+   "id": "7013",
+   "title": "6399",
+   "popuptext": "Correction made to rental account",
+   "description": "",
+   "quantity": 1,
+   "options": []
+},
+ {
+   "id": "7014",
+   "title": "6331",
+   "popuptext": "Prevented lockout",
+   "description": "",
+   "quantity": 1,
+   "options": []
+}
+]
+    
+  }
+]
