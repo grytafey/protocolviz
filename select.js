@@ -164,7 +164,7 @@ d3.json("data.json").get(function(error,data){
 	secondGroups.append("text")
 				.attr("x","10" )
 				.attr("y","10")
-				.attr("class","txt")
+				.attr("class","text")
 				.attr("text-anchor","left")
 				.attr("dominant-baseline","middle")
 				.text(function(d){return d.title;});
