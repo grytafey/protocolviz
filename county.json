@@ -1,0 +1,733 @@
+[
+  {
+    "id": "10",
+    "title": "County",
+    "popuptext": null,
+    "description": null,
+    "options": [
+      {
+        "id": "1003",
+        "mainName": "Allen",
+        "popUpText": "",
+        "description": "",
+        "options": [
+          {
+            "id": "100301",
+            "mainName": "Lima Municipal Court",
+            "courtRulesWebsite":"http://www.cityhall.lima.oh.u/DocumentCenter/View/1179",
+            "courtDocket":"http://65.17.147.130/connection/court/lookup.xsp",
+            "courtFormsWebsite":"http://www.cityhall.lima.oh.us/index.aspx?nid=105",
+            "formsAvailable":[
+              {
+              "formName":"Fax Filing Cover Page",
+              "formLink":"http://www.cityhall.lima.oh.us/DocumentCenter/View/1314"
+              "formType":"GE"
+              },
+              {
+                "formName":"Notice to Vacant"
+                "formLink":"http://www.cityhall.lima.oh.us/DocumentCenter/Home/View/91"
+                "formType": "GE"
+                }
+                ],
+            "popUpText": "",
+            "description": "",
+            "quantity":1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": "1005",
+        "mainName": "Ashland",
+        "popUpText": "",
+        "description": "",
+        "options": [
+          {
+            "id": "100501"
+            "mainName": "Ashland Municipal Court", 
+            "courtRulesWebsite":"http://www.ashlandmunicourt.com/RULES_OF_COURT.htm"
+            "courtDocket": "http://web1.civicacmi.com/Ashland/Court/"
+            "courtFormswebsite":"http://www.ashlandmunicourt.com/CourtForms.htm"
+            "formsAvailable": []
+            "popUpText": "",
+            "description": "",
+            "options": []
+            "quantity":1
+          }
+        ]
+      },
+      {
+        "id": "1011",
+        "mainName": "Auglaize",
+        "popUpText": "",
+        "description": "",
+        "options": [
+          {
+            "id": "100501",
+            "mainName": "Auglaize Municipal Court",
+            "popUpText": "",
+            "description": "",
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": "1021",
+        "mainName": "Champaign",
+        "popUpText": "",
+        "description": "",
+        "options": [
+          {
+            "id": "100501",
+            "mainName": "Champaign County Municipal Court",
+            "popUpText": "",
+            "description": "",
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": "1023",
+        "mainName": "CLARK",
+        "popUpText": "",
+        "description": "",
+        "options": []
+        "id": "102301"
+            "mainName":"Clark County Municiple Court" 
+            "courtRulesWebsite": "http://www.clerkofcourts.municipal.co.clark.oh.us/web.nsf/78ADEDC6EBB5034F852572650075687C/$File/Rules%20Of%20Practice.pdf"
+            "courtDocket":"http://clerkofcourts.municipal.co.clark.oh.us/web.nsf/CaseSearch?OpenForm"
+            "courtFormswebsite": "http://www.clerkofcourts.municipal.co.clark.oh.us/web.nsf/DownloadsPage?OpenForm"
+            "formsAvailable": [
+              {
+                "formName":
+                "formLink":
+                "formType":
+              }
+              ]
+            "popUpText": "",
+            "description": "",
+            "options": []
+            "quantity":
+      },
+      {
+            "id": 
+            "mainName": 
+            "courtRulesWebsite":
+            "courtDocket":
+            "courtFormswebsite":
+            "formsAvailable": [
+              {
+                "formName":
+                "formLink":
+                "formType":
+              }
+              ]
+            "popUpText": "",
+            "description": "",
+            "options": []
+            "quantity":
+          }
+        ]
+      },
+      {
+        "id": "1033",
+        "mainName": "AWFORD",
+        "courtDocket":"",
+            "courtFormsWebsite":"",
+            "formsAvailable":
+        "popUpText": "",
+        "description": "",
+        "options": []
+      },
+      {
+        "id": "1037",
+        "mainName": "DARKE",
+        "popUpText": "",
+        "description": "",
+        "options": []
+      },
+      {
+        "id": "1039",
+        "mainName": "DEFIANCE",
+        "popUpText": "",
+        "description": "",
+        "options": []
+      },
+      {
+        "id": "1043",
+        "mainName": "ERIE",
+        "popUpText": "",
+        "description": "",
+        "options": []
+      },
+      {
+        "id": "1051",
+        "mainName": "FULTON",
+        "popUpText": "",
+        "description": "",
+        "options": []
+      },
+      {
+        "id": "1057",
+  "mainName": "GREENE",
+        "popUpText": "",
+        "description": "",
+        "options": []
+      },
+      {
+        "id": "1063",
+        "mainName": "HANCOCK",
+        "popUpText": "",
+        "description": "",
+        "options": []
+      },
+      {
+        "id": "1065",
+        "mainName": "HARDIN",
+        "popUpText": "",
+        "description": "",
+        "options": []
+      },
+      {
+        "id": "1069",
+        "mainName": "HENRY",
+        "popUpText": "",
+        "description": "",
+        "options": []
+      },
+      {
+        "id": "1077",
+        "mainName": "HURON",
+        "popUpText": "",
+        "description": "",
+        "options": []
+      },
+      {
+        "id": "1091",
+        "mainName": "LOGAN",
+        "popUpText": "",
+        "description": "",
+        "options": []
+      },
+      {
+        "id": "1095",
+        "mainName": "LUCAS",
+        "popUpText": "",
+        "description": "",
+        "options": []
+      },
+      {
+        "id": "1097",
+        "mainName": "MERCER",
+        "popUpText": "",
+        "description": "",
+        "options": []
+      },
+      {
+        "id": "1099",
+        "mainName": "MIAMI",
+        "popUpText": "",
+        "description": "",
+        "options": []
+      },
+      {
+        "id": "10113",
+        "mainName": "MONTGOMERY",
+        "popUpText": "",
+        "description": "",
+        "options": []
+      },
+      {
+        "id": "10123",
+        "mainName": "OTTAWA",
+        "popUpText": "",
+        "description": "",
+        "options": []
+      },
+      {
+        "id": "10125",
+        "mainName": "PAULDING",
+        "popUpText": "",
+        "description": "",
+        "options": []
+      },
+      {
+        "id": "10135",
+        "mainName": "PREBLE",
+        "popUpText": "",
+        "description": "",
+        "options": []
+      },
+      {
+        "id": "10137",
+        "mainName": "PUTNAM",
+        "popUpText": "",
+        "description": "",
+        "options": []
+      },
+      {
+        "id": "10139",
+        "mainName": "RICHLAND",
+        "popUpText": "",
+        "description": "",
+        "options": []
+      },
+      {
+        "id": "10143",
+        "mainName": "SANDUSKY",
+        "popUpText": "",
+        "description": "",
+        "options": []
+      },
+      {
+        "id": "10147",
+        "mainName": "SENECA",
+        "popUpText": "",
+        "description": "",
+        "options": []
+      },
+      {
+        "id": "10149",
+        "mainName": "SHELBY",
+        "popUpText": "",
+        "description": "",
+        "options": []
+      },
+      {
+        "id": "10161",
+        "mainName": "VAN WERT",
+        "popUpText": "",
+        "description": "",
+        "options": []
+      },
+      {
+        "id": "10171",
+        "mainName": "WILLIAMS",
+        "popUpText": "",
+        "description": "",
+        "options": []
+      },
+      {
+        "id": "10173",
+        "mainName": "WOOD",
+        "popUpText": "",
+        "description": "",
+        "options": []
+      },
+      {
+        "id": "10175",
+        "mainName": "WYANDOT",
+        "popUpText": "",
+        "description": "",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "title": "Eligibility",
+    "popuptext": null,
+    "description": null,
+    "options": [
+      {
+        "id": "2001",
+        "title": "Senior",
+        "popuptext": "",
+        "description": "",
+        "options": [
+          {
+            "id": "200101",
+            "title": "Frail",
+            "popuptext": "",
+            "description": "",
+            "options": []
+          },
+          {
+            "id": "200102",
+            "title": "Not Frail",
+            "quantity": 1,
+            "popuptext": "",
+            "description": "",
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "title": "At or below 125%",
+        "quantity": 1,
+        "popuptext": "",
+        "description": "",
+        "options": []
+      },
+      {
+        "id": "13",
+        "type": "Disability",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "title": "Housing Type",
+    "options": [
+      {
+        "id": "21",
+        "type": "Private",
+        "quantity": 1
+      },
+      {
+        "id": "22",
+        "type": "Subsidized",
+        "quantity": 1
+      },
+      {
+        "id": "23",
+        "type": "Manufactured housing",
+        "quantity": 1
+      },
+      {
+        "id": "24",
+        "type": "Land Contract",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "title": "Stage",
+    "options": [
+      {
+        "id": "31",
+        "type": "Application",
+        "quantity": 1
+      },
+      {
+        "id": "32",
+        "type": "Prepared and Protected",
+        "quantity": 1
+      },
+      {
+        "id": "33",
+        "type": "Problem",
+        "quantity": 1
+      },
+      {
+        "id": "34",
+        "type": "Notice to Vacate",
+        "quantity": 1
+      },
+      {
+        "id": "32",
+        "type": "Eviction Complaint",
+        "quantity": 1
+      },
+      {
+        "id": "33",
+        "type": "Before Setout",
+        "quantity": 1
+      },
+      {
+        "id": "34",
+        "type": "Damages",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": "50",
+    "title": "Legal Aid",
+    "popuptext": null,
+    "description": null,
+    "options": [
+      {
+        "id": "5001",
+        "title": "None",
+        "popuptext": null,
+        "description": null,
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "5002",
+        "title": "LiveChat",
+        "popuptext": null,
+        "description": null,
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "5003",
+        "title": "Doc Review",
+        "popuptext": null,
+        "description": null,
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "5004",
+        "title": "Admin Rep",
+        "popuptext": null,
+        "description": null,
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "5005",
+        "title": "Advice",
+        "popuptext": null,
+        "description": null,
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "5006",
+        "title": "Limited Service",
+        "popuptext": null,
+        "description": null,
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "5007",
+        "title": "Clinic",
+        "popuptext": null,
+        "description": null,
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "5008",
+        "title": "Pro Bono",
+        "popuptext": null,
+        "description": null,
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "5009",
+        "title": "Representation",
+        "popuptext": null,
+        "description": null,
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "5010",
+        "title": "Other",
+        "popuptext": null,
+        "description": null,
+        "quantity": 1,
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "60",
+    "title": "Other Resources",
+    "popuptext": null,
+    "description": null,
+    "options": [
+      {
+        "id": "6001",
+        "title": "None",
+        "popuptext": null,
+        "description": null,
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "6002",
+        "title": "Fair Housing",
+        "popuptext": null,
+        "description": null,
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "6003",
+        "title": "Apartment Listings",
+        "popuptext": null,
+        "description": null,
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "5004",
+        "title": "Disability Rights",
+        "popuptext": null,
+        "description": null,
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "5005",
+        "title": "Cash Assistance",
+        "popuptext": null,
+        "description": null,
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "5006",
+        "title": "Housing Counselor",
+        "popuptext": null,
+        "description": null,
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "5007",
+        "title": "Mediation",
+        "popuptext": null,
+        "description": null,
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "5008",
+        "title": "Private Bar",
+        "popuptext": null,
+        "description": null,
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "5009",
+        "title": "State Hotline",
+        "popuptext": null,
+        "description": null,
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "5010",
+        "title": "Other",
+        "popuptext": null,
+        "description": null,
+        "quantity": 1,
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "70",
+    "title": "Outcomes",
+    "popuptext": null,
+    "description": null,
+    "options": [
+      {
+        "id": "6300",
+        "title": "Prevented eviction",
+        "popuptext": "",
+        "description": "",
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "6310",
+        "title": "Delayed eviction to seek alternative housing",
+        "popuptext": "",
+        "description": "",
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "6311",
+        "title": "Prevented utility shutoff",
+        "popuptext": "",
+        "description": "",
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "6321",
+        "title": "Restored utilities",
+        "popuptext": "",
+        "description": "",
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "6330",
+        "title": "Obtained redress for illegal or unfair charges by landlord",
+        "popuptext": "",
+        "description": "",
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "6350",
+        "title": "Enforced rights to decent habitable housing",
+        "popuptext": "",
+        "description": "",
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "6352",
+        "title": "Provided help to develop or renovate affordable housing",
+        "popuptext": "",
+        "description": "",
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "6370",
+        "title": "Obtained affordable housing through transfer or relocation",
+        "popuptext": "",
+        "description": "",
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "6354",
+        "title": "Eliminating building or health code violation",
+        "popuptext": "",
+        "description": "",
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "6361",
+        "title": "Achieved accommodations for housing accessibility",
+        "popuptext": "",
+        "description": "",
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "6380",
+        "title": "Obtained redress for discrimination in obtaining housing",
+        "popuptext": "",
+        "description": "",
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "6394",
+        "title": "Restored access to personal property",
+        "popuptext": "",
+        "description": "",
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "6399",
+        "title": "Correction made to rental account",
+        "popuptext": "",
+        "description": "",
+        "quantity": 1,
+        "options": []
+      },
+      {
+        "id": "6331",
+        "title": "Prevented lockout",
+        "popuptext": "",
+        "description": "",
+        "quantity": 1,
+        "options": []
+      }
+    ]
+  }
+]
