@@ -31,7 +31,7 @@ d3.json("data.json").get(function(error,data){
 	
 	var svgtest = d3.select("body").select("svg");
 	console.log(svgtest);
-if (!!svgtest){
+if (svgtest.length > 0){
 	console.log(svgtest);
 	svgtest.remove();
 }
