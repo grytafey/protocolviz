@@ -22,7 +22,7 @@ var margin = {left:50,right:50,top:0,bottom:0};
 var totalquantity = 0
 var tempquantity = 0
 var temptext = "Text"
-
+console.log(temptext);
 var titlearray = []
 var totalqarray = []
 var textarray = []
