@@ -5,7 +5,7 @@ function callFunction(){
 	
 var svgtest = d3.select("body").select("svg");
 	console.log(svgtest);
-if (!svgtest.empty()){
+if (svgtest.empty()){
 	console.log(svgtest);
 	svgtest.remove();
 }
