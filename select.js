@@ -3,12 +3,6 @@ d3.select(window).on("click",callFunction);
 callFunction();
 function callFunction(){
 	
-var svgtest = d3.select("body").select("svg");
-	console.log(svgtest);
-if (svgtest.empty()){
-	console.log(svgtest);
-	svgtest.remove();
-}
 
 var margin = {top: 10, right: 90, bottom: 10, left: 90};
 var  width = window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth;
@@ -35,6 +29,13 @@ var chartGroup = svg.append("g").attr("transform","translate("+margin.left+","+m
 
 d3.json("data.json").get(function(error,data){
 	
+	var svgtest = d3.select("body").select("svg");
+	console.log(svgtest);
+if (svgtest.empty()){
+	console.log(svgtest);
+	svgtest.remove();
+}
+
 	//Creates array for horizontal ordinal scale of title names
 	for (var d = 0; d < data.length; d++){
 		titlearray.push(data[d].title)
