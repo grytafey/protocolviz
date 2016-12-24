@@ -4,10 +4,10 @@ callFunction();
 function callFunction(){
 	
 var svgtest = d3.select("body").select("svg");
-//if (!svgtest.empty()){
+if (!svgtest.empty()){
 	//console.log(svgtest);
-	//svgtest.remove();
-//}
+	svgtest.remove();
+}
 
 var margin = {top: 10, right: 90, bottom: 10, left: 90};
 var  width = window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth;
