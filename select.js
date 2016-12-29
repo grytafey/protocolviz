@@ -26,10 +26,7 @@ var tooltip = d3.select("body").append("div").style("opacity","0").style("positi
 var svg = d3.select("body").append("svg").attr("width",width).attr("height",height);
 var chartGroup = svg.append("g").attr("transform","translate("+margin.left+","+margin.top+")");
 
-if (svgtest.length > 0){
-	console.log(svgtest);
-	svgtest.remove();
-}
+
 	
 d3.json("data.json").get(function(error,data){
 	
