@@ -26,15 +26,16 @@ var tooltip = d3.select("body").append("div").style("opacity","0").style("positi
 var svg = d3.select("body").append("svg").attr("width",width).attr("height",height);
 var chartGroup = svg.append("g").attr("transform","translate("+margin.left+","+margin.top+")");
 
-
-d3.json("data.json").get(function(error,data){
-	
-	var svgtest = d3.select("body").select("svg");
-	console.log(svgtest);
 if (svgtest.length > 0){
 	console.log(svgtest);
 	svgtest.remove();
 }
+	
+d3.json("data.json").get(function(error,data){
+	
+	var svgtest = d3.select("body").select("svg");
+	console.log(svgtest);
+
 
 	//Creates array for horizontal ordinal scale of title names
 	for (var d = 0; d < data.length; d++){
