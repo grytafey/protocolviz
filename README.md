@@ -20,7 +20,13 @@ These factors include:
 
 Many of these factors are essentially the same as the factors identified in [this white paper about a Legal Aid Grants Open Data Standard](https://docs.google.com/document/d/1PQpWjRwO0n_IO-sPOImRhn0x0oBlxRWoCtA1G0UuhnY/pub).  An additional factor has been added regarding the Stage of the Legal Issue.  This factor is included because referrals often depend on whether particular events have occured.  For example, a client who has received a notice to vacate may not be referred to an attorney for representation until an actual eviction case is filed.  In addition, this plan for 100% Access to Justice recognizes that providing assistance that may prevent an eviction case being filed may be more efficient for staff resources and better achieve the goals of the client.   However, determining the Stage of the Legal Issue will be dependent on the particular Legal Issue, and may be difficult to standardize across Legal Issues.
 
+Each of these factors can be complex, with large numbers of variables (such as 32 counties in a service area) and nested variables (such as having multiple courts or cities in a county).
 
+###D3 Visualization
+
+We can use a [treemap](http://bl.ocks.org/ganeshv/6a8e9ada3ab7f2d88022) to visualize the complexity of these factors.  Each of the above-listed factor will have its own treemap.
+
+To visualize what funding sources are available for combinations of factors, we can use a variant of a [sankey diagram](http://bl.ocks.org/d3noob/5028304).
 
 http://docs.openreferral.org/en/latest/reference/
 
