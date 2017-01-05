@@ -10,8 +10,20 @@ One solution (among others like ) is funding organizations to provide legal assi
 Many legal aid providers receive funding from the federal government through the Legal Services Corporation.  In order to be help more people, legal aid providers also seek additional funding from foundations, state and local governments
 ## How ProtocolViz Can Let Us See the Triage
 
-# Resources
-https://docs.google.com/document/d/1PQpWjRwO0n_IO-sPOImRhn0x0oBlxRWoCtA1G0UuhnY/pub
+Many different factors determine what funding sources or resources are available to any particular person.
+These factors include:
+ - Location
+ - Demographics/Special Populations
+ - Legal Issue/[National Subject Matter Index](https://nsmi.lsntap.org/)
+ - Stage of the Legal Issue
+ - Referral Source
+
+Many of these factors are essentially the same as the factors identified in [this white paper about a Legal Aid Grants Open Data Standard](https://docs.google.com/document/d/1PQpWjRwO0n_IO-sPOImRhn0x0oBlxRWoCtA1G0UuhnY/pub).  An additional factor has been added regarding the Stage of the Legal Issue.  This factor is included because referrals often depend on whether particular events have occured.  For example, a client who has received a notice to vacate may not be referred to an attorney for representation until an actual eviction case is filed.  In addition, this plan for 100% Access to Justice recognizes that providing assistance that may prevent an eviction case being filed may be more efficient for staff resources and better achieve the goals of the client.   However, determining the Stage of the Legal Issue will be dependent on the particular Legal Issue, and may be difficult to standardize across Legal Issues.
+
+
+
 http://docs.openreferral.org/en/latest/reference/
+
 https://accesstojustice.net/2016/12/04/how-to-compare-the-appropriateness-of-potential-atj-indicators/
+
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2830918
