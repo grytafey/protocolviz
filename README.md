@@ -9,3 +9,9 @@ One solution (among others like ) is funding organizations to provide legal assi
 ### Funding Sources
 Many legal aid providers receive funding from the federal government through the Legal Services Corporation.  In order to be help more people, legal aid providers also seek additional funding from foundations, state and local governments
 ## How ProtocolViz Can Let Us See the Triage
+
+# Resources
+https://docs.google.com/document/d/1PQpWjRwO0n_IO-sPOImRhn0x0oBlxRWoCtA1G0UuhnY/pub
+http://docs.openreferral.org/en/latest/reference/
+https://accesstojustice.net/2016/12/04/how-to-compare-the-appropriateness-of-potential-atj-indicators/
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2830918
