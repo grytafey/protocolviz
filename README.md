@@ -33,3 +33,5 @@ http://docs.openreferral.org/en/latest/reference/
 https://accesstojustice.net/2016/12/04/how-to-compare-the-appropriateness-of-potential-atj-indicators/
 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2830918
+
+https://schd.ws/hosted_files/2017tigconference/8c/Open%20Referral%20ILAO%20implementation%20TIG%20presentation%201%252F2017.pdf
